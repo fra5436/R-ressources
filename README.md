@@ -20,6 +20,7 @@ ___
 **fini mais lien vers d'autre tutos cool a la fin**
 > Numerous guides have been written on the exploration of this widely known dataset. Iris, introduced by Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems, contains three plant species (setosa, virginica, versicolor) and four features measured for each sample. These quantify the morphologic variation of the iris flower in its three species, all measurements given in centimeters.
 
+___
 ## Le site de l'absolu et de l'infini **STHDA**
 ### Statistical tools for high-throughput data analysis
 
