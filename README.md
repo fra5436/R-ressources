@@ -16,6 +16,6 @@ ___
 ___
 
 ## done
-- https://rstudio-pubs-static.s3.amazonaws.com/204918_d5ccf842cbc540e78b3d6d3287e6ad38.html : je le teste de suite ça a l'air cool, y a des liens vers d'autres tutos plus avancés en bas.
+- https://rstudio-pubs-static.s3.amazonaws.com/204918_d5ccf842cbc540e78b3d6d3287e6ad38.html : je le teste de suite ça a l'air cool, y a des liens vers d'autres tutos plus avancés en bas.  
 **fini mais lien vers d'autre tutos cool a la fin**
 > Numerous guides have been written on the exploration of this widely known dataset. Iris, introduced by Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems, contains three plant species (setosa, virginica, versicolor) and four features measured for each sample. These quantify the morphologic variation of the iris flower in its three species, all measurements given in centimeters.
