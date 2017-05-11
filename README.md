@@ -6,7 +6,7 @@ ___
 ## some ressources to begin with
 - https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf cours de base en français
 >Pdf de Vincent Goulet : plutôt Old School, plus ou moins obsolète depuis la sortie des packages de Hadley Wickham. 
-`page 42 ; listes `
+`page 64 ; 3.7 exemples `
 - http://r4ds.had.co.nz  R for data science Hadley wickam 
 >R for data Science : utilisation de R avec « surcouche » de paquets développés par Hadley Wickham, qui apporte une certaine cohérence dans le langage et pas mal de fonctionnalités modernes
 ___
