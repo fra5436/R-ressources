@@ -33,6 +33,8 @@ ___
 
 - [quick R](http://www.statmethods.net/management/sorting.html) Un peu le meme mais en anglais
 [!Quick R](/research/statstudio/images/Quick-R_logo.JPG)
+> a l'air recommender pour ces guides pour les graphiques
+
 
 ### 
 
