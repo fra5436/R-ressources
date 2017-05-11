@@ -28,3 +28,11 @@ ___
 - [STHDA](http://www.sthda.com/french/)
 
 > excellent site , simple , explication pas a pas, en français , rappel sur les test 
+
+### un peu le meme mais en anglais
+
+- [quick R](http://www.statmethods.net/management/sorting.html) Un peu le meme mais en anglais
+[!Quick R](/research/statstudio/images/Quick-R_logo.JPG)
+
+### 
+
