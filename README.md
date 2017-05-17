@@ -35,6 +35,11 @@ ___
 [!Quick R](/research/statstudio/images/Quick-R_logo.JPG)
 > a l'air recommender pour ces guides pour les graphiques
 
+___
 
-### 
+
+# Data tree
+### intro a data tree cran
+
+-[Introduction to data.tree](https://cran.r-project.org/web/packages/data.tree/vignettes/data.tree.html#introduction)
 
